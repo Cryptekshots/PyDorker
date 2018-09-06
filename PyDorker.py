@@ -12,7 +12,7 @@ def main():
 	banner()
 	
 	try:
-		a  = raw_input("Enter Ur Prefix (i.e., \"INURL:\") File Location: ").replace('"',''); open(a).close()
+		a = raw_input("Enter Ur Prefix (i.e., \"INURL:\") File Location: ").replace('"',''); open(a).close()
 		b = raw_input("Enter Ur KeyWord (i.e., \"Fortnite\") File Location: ").replace('"',''); open(b).close()
 		c = raw_input("Enter Ur FileType (i.e., \".php?\") File Location: ").replace('"',''); open(c).close()
 		d = raw_input("Enter Ur Parameter (i.e., \"id=\") File Location: ").replace('"',''); open(d).close()
