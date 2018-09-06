@@ -1,8 +1,7 @@
 # /usr/bin/env python
 
-#the most simple and fast dorker by @aggr3ssor
-#modify and enjoy
-#python version: 2.7
+# The most simple and fast dorker by @aggr3ssor
+# Modify and enjoy
 
 import os
 import sys
